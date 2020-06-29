@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Source.cpp(106,13): warning C4244: инициализация: преобразование "Uint32" в "float", возможна потеря данных
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Source.cpp(111,17): warning C4244: инициализация: преобразование "Uint32" в "float", возможна потеря данных
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Source.cpp(199,22): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Source.cpp(202,22): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Source.cpp(205,22): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Source.cpp(208,22): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Source.cpp(421,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Kurs.vcxproj -> D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Debug\Kurs.exe

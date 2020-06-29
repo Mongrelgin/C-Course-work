@@ -1,0 +1,4 @@
+D:\Учёба\Семестр4\C++\Kursach\Kurs\Debug\Kurs.exe
+D:\Учёба\Семестр4\C++\Kursach\Kurs\Debug\Kurs.pdb
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Debug\Kurs.exe
+D:\Учёба\Семестр4\C++\Kursach\Kurs(MainEndVersion)\Debug\Kurs.pdb
